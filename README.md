@@ -12,7 +12,7 @@ A simple and customizable password generator built with **React** and **Tailwind
 
 ## 🖼️ Preview
 
-![Password Generator Screenshot](./screenshot.png)
+[password-generator-79ok.vercel.app](https://password-generator-79ok.vercel.app/)
 
 ## 🛠️ Tech Stack
 
